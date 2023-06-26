@@ -14,7 +14,10 @@
 | Python Foundations | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/assip-2023/blob/main/lessons/python_foundations.ipynb) |
 | Computational Thinking Foundations | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/assip-2023/blob/main/lessons/computational_thinking_foundations.ipynb) |
 | Statistical Thinking Foundations | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/assip-2023/blob/main/lessons/statistical_thinking_foundations.ipynb) |
+| Machine Learning Overview | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/assip-2023/blob/main/lessons/ml_overview.ipynb) |
 | Regression | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/assip-2023/blob/main/lessons/ml_regresssion.ipynb) |
+| Classification | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/assip-2023/blob/main/lessons/ml_classification.ipynb) |
+
 
 ## Activities
 
