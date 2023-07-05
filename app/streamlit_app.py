@@ -109,7 +109,7 @@ with tab_sird:
     if st.button("Run forward simulation"):
         with st.spinner('Wait for it...'):
             # Initial conditions
-            t_train = np.arange(0, n_days, 1)[:, np.newaxis]
+            t_train = np.arange(0, n_days, 1)
             parameters = {
                 "beta": beta,
                 "gamma": gamma,
