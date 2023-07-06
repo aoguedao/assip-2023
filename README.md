@@ -19,7 +19,7 @@
 | Classification | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/assip-2023/blob/main/lessons/ml_classification.ipynb) |
 | Clustering | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/assip-2023/blob/main/lessons/ml_clustering.ipynb) |
 | Data Visualization | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/assip-2023/blob/main/lessons/data_visualization.ipynb) |
-
+| Introduction Neural Networks | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/assip-2023/blob/main/lessons/neural_networks_intro.ipynb) |
 
 
 ## Activities
